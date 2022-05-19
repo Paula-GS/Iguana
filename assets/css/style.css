@@ -1,0 +1,93 @@
+body *{
+margin: 0;
+border: 0;
+padding: 0;
+}
+body {
+text-align: center;
+font-family: 'Raleway';
+background-color: #000000;
+color: #FFFFFF
+}
+
+.brown {
+  background-color: #1E1A13;
+  }
+
+#inicio {
+  margin-top: 1em;
+}
+#inicio h1 {
+  font-size: 40px;
+  font-weight: lighter;
+  margin-bottom: 0.5em;
+}
+#inicio img {
+width: 100%;
+}
+
+.info {
+  padding: 2em;
+  align-items: center;
+}
+.texto, .imagen {
+display: inline-block;
+vertical-align: middle;
+}
+.texto {
+  font-weight: lighter;
+  text-align: left;
+  font-size: 15px;
+  width: 35%;
+  padding-right: 1em;
+}
+#informativo img {
+  width: 399px;
+  height: 237px;
+    padding-left: 6em;
+}
+
+
+#caracteristicas {
+  padding: 3em;
+  vertical-align: middle;
+  font-weight: lighter;
+  }
+  #caracteristicas h2 {
+    padding-bottom: 2em;
+    font-weight: lighter;
+    font-size: 30px;
+  }
+.eye, .peace, .colour {
+    display: inline-block;
+  }
+  .peace {
+    padding-right: 8em;
+    padding-left: 8em;
+  }
+  .eye h3, .peace h3, .colour h3 {
+  font-weight: lighter;
+  font-size: 20px;
+  }
+  .eye i, .peace i, .colour i {
+    padding-bottom: 0.5em;
+  }
+
+
+#fotos img {
+margin-top: 73px;
+margin-bottom: 73px;
+padding: 0.25em;
+width: 316px;
+height: 202px;
+}
+
+
+#visita p {
+  padding: 2em;
+  font-weight: lighter;
+  font-stretch: extra-expanded;
+  }
+#visita a {
+  text-decoration: none;
+}
